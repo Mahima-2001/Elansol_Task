@@ -1,0 +1,34 @@
+/* .dashboard-container {
+    margin-top: 50px;
+    text-align: center;
+}
+  
+.user-table {
+    margin-top: 20px;
+    border: 1px;
+    text-align: center;
+} */
+
+.dashboard-container {
+  padding: 20px;
+}
+
+.user-table {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.user-table th,
+.user-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.user-table th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+
+  
